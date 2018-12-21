@@ -6,7 +6,7 @@ http://167.114.173.170:25461/live/fgdaFYZ27J/_HMQNOZP/294.m3u8|User-Agent=player
 #EXTINF:-1, tvg-id="BAND" tvg-logo="https://i.imgur.com/yHryW3l.png?1" tvg-name="BAND HD"  group-title="TV ABERTA",BAND HD
 http://evpp.mm.uol.com.br:1935/geob_band/bandapp/live.m3u8
 
-#EXTINF:-1, tvg-id="BAND" tvg-logo="https://i.postimg.cc/cJmC2914/BAND.png" tvg-name="BAND SD"  group-title="TV ABERTA",BAND SD
+#EXTINF:-1, tvg-id="BAND" tvg-logo="https://i.postimg.cc/gJc0yVWX/BAND-HD.png" tvg-name="BAND SD"  group-title="TV ABERTA",BAND SD
 http://177.139.171.102:27030/live/alvaro/17/34.ts
 
 #EXTINF:-1, tvg-id="BAND" tvg-logo="https://i.postimg.cc/cJmC2914/BAND.png" tvg-name="BAND SD"  group-title="TV Aberta (leo)",BAND SD
