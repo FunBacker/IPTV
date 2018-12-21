@@ -3,13 +3,13 @@
 #EXTINF:-1, tvg-id="BABY TV" tvg-logo="https://i.postimg.cc/Fs2cmBy9/BABY-TV.png" tvg-name="BABY TV"  group-title="INFANTIL",BABY TV
 http://167.114.173.170:25461/live/fgdaFYZ27J/_HMQNOZP/294.m3u8|User-Agent=player_exo3
 
-#EXTINF:-1, tvg-id="BAND" tvg-logo="https://i.imgur.com/yHryW3l.png?1" tvg-name="BAND HD"  group-title="TV ABERTA",BAND HD
+#EXTINF:-1, tvg-id="BAND" tvg-logo="https://i.imgur.com/yHryW3l.png?1" tvg-name="BAND HD"  group-title="TV ABERTA",BAND
 http://evpp.mm.uol.com.br:1935/geob_band/bandapp/live.m3u8
 
-#EXTINF:-1, tvg-id="BAND" tvg-logo="https://i.postimg.cc/gJc0yVWX/BAND-HD.png" tvg-name="BAND SD"  group-title="TV ABERTA",BAND SD
+#EXTINF:-1, tvg-id="BAND" tvg-logo="https://i.postimg.cc/gJc0yVWX/BAND-HD.png" tvg-name="BAND SD"  group-title="TV ABERTA",BAND
 http://177.139.171.102:27030/live/alvaro/17/34.ts
 
-#EXTINF:-1, tvg-id="BAND" tvg-logo="https://i.postimg.cc/cJmC2914/BAND.png" tvg-name="BAND SD"  group-title="TV Aberta (leo)",BAND SD
+#EXTINF:-1, tvg-id="BAND" tvg-logo="https://i.postimg.cc/cJmC2914/BAND.png" tvg-name="BAND SD"  group-title="TV Aberta (leo)",BAND
 http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
 
 #EXTINF:-1, tvg-id="Bloomberg.LEO" tvg-logo="https://i.postimg.cc/FFCXznYM/Photo-1542097029224.png" tvg-name="BOOMERANG"  group-title="INFANTL LEO",BOOMERANG
