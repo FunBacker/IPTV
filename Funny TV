@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-id="NBR" tvg-logo="https://github.com/FunBacker/IPTV-Logo/blob/master/zLogo.png" tvg-name="ABC News"  group-title="NEWS(leo)",ABC News
+#EXTINF:-1, tvg-id="NBR" tvg-logo="https://raw.githubusercontent.com/FunBacker/IPTV-Logo/master/zLogo.png" tvg-name="ABC News"  group-title="NEWS(leo)",ABC News
 https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1, tvg-id="BabyTv.LEO" tvg-logo="https://i.postimg.cc/FFCXznYM/Photo-1542097029224.png" tvg-name="BABY TV"  group-title="INFANTL LEO",BABY TV
