@@ -1,0 +1,211 @@
+#EXTM3U
+
+#EXTINF:-1, tvg-id="NBR" tvg-logo="https://drive.google.com/drive/folders/179NNAz_Wg292dbUzMawxhyFuoDPenRbU/Logo.png" tvg-name="ABC News"  group-title="NEWS(leo)",ABC News
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, tvg-id="BabyTv.LEO" tvg-logo="https://i.postimg.cc/FFCXznYM/Photo-1542097029224.png" tvg-name="BABY TV"  group-title="INFANTL LEO",BABY TV
+http://167.114.173.170:25461/live/fgdaFYZ27J/_HMQNOZP/294.m3u8|User-Agent=player_exo3
+
+#EXTINF:-1, tvg-id="GloboRj.leo" tvg-logo="https://i.postimg.cc/3x1ScsCW/Photo-1542097081492.png" tvg-name="BAND"  group-title="BONUS(leo)",BAND
+http://177.139.171.102:27030/live/alvaro/17/34.ts
+
+#EXTINF:-1, tvg-id="BAND PA" tvg-logo="https://i.imgur.com/yHryW3l.png?1" tvg-name="BAND"  group-title="TV Aberta (leo)",BAND
+http://evpp.mm.uol.com.br:1935/geob_band/bandapp/live.m3u8
+
+#EXTINF:-1, tvg-id="BAND SP" tvg-logo="https://i.postimg.cc/FFCXznYM/Photo-1542097029224.png" tvg-name="BAND SP"  group-title="TV Aberta (leo)",BAND SP
+http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
+
+#EXTINF:-1, tvg-id="Bloomberg.LEO" tvg-logo="https://i.postimg.cc/FFCXznYM/Photo-1542097029224.png" tvg-name="BOOMERANG"  group-title="INFANTL LEO",BOOMERANG
+http://167.114.173.170:25461/live/fgdaFYZ27J/_HMQNOZP/287.m3u8|User-Agent=player_exo3
+
+#EXTINF:-1, tvg-id="Cartoon Network.LEO" tvg-logo="https://i.postimg.cc/FFCXznYM/Photo-1542097029224.png" tvg-name="CARTOON NETWORK"  group-title="INFANTL LEO",CARTOON NETWORK
+Unsorted
+
+#EXTINF:-1, tvg-id="CAT TVE" tvg-logo="https://i.imgur.com/VlHeBLa.png?1" tvg-name="CAT TVE"  group-title="TV Aberta (leo)",CAT TVE
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8?EDSONSOUSALIST
+
+#EXTINF:-1, tvg-id="NBR" tvg-logo="https://i.postimg.cc/3x1ScsCW/Photo-1542097081492.png" tvg-name="CBS NEWS"  group-title="NEWS(leo)",CBS NEWS
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, tvg-id="GloboRj.leo" tvg-logo="https://i.postimg.cc/3x1ScsCW/Photo-1542097081492.png" tvg-name="COMEDY CENTRAL"  group-title="BONUS(leo)",COMEDY CENTRAL
+http://177.139.171.102:27030/live/alvaro/17/202.ts
+
+#EXTINF:-1, tvg-id="DISCOVERY Kids.LEO" tvg-logo="https://i.postimg.cc/FFCXznYM/Photo-1542097029224.png" tvg-name="DISCOVERY KIDS"  group-title="INFANTL LEO",DISCOVERY KIDS
+http://167.114.173.170:25461/live/fgdaFYZ27J/_HMQNOZP/279.m3u8|User-Agent=player_exo3
+
+#EXTINF:-1, tvg-id="GloboRj.leo" tvg-logo="https://i.postimg.cc/3x1ScsCW/Photo-1542097081492.png" tvg-name="DISCOVERY TURBO"  group-title="BONUS(leo)",DISCOVERY TURBO
+http://177.139.171.102:27030/live/alvaro/17/124.ts
+
+#EXTINF:-1, tvg-id="Disney Channel.LEO" tvg-logo="https://i.postimg.cc/FFCXznYM/Photo-1542097029224.png?" tvg-name="DISNEY CHANNEL"  group-title="INFANTL LEO",DISNEY CHANNEL
+http://167.114.173.170:25461/live/fgdaFYZ27J/_HMQNOZP/277.m3u8|User-Agent=player_exo3
+
+#EXTINF:-1, tvg-id="Disney Jr.LEO" tvg-logo="https://i.postimg.cc/FFCXznYM/Photo-1542097029224.png" tvg-name="DISNEY JR"  group-title="INFANTL LEO",DISNEY JR
+http://167.114.173.170:25461/live/fgdaFYZ27J/_HMQNOZP/276.m3u8|User-Agent=player_exo3
+
+#EXTINF:-1, tvg-id="Disney XD.LEO" tvg-logo="https://i.postimg.cc/FFCXznYM/Photo-1542097029224.png?" tvg-name="DISNEY XD"  group-title="INFANTL LEO",DISNEY XD
+http://167.114.173.170:25461/live/fgdaFYZ27J/_HMQNOZP/275.m3u8|User-Agent=player_exo3
+
+#EXTINF:-1, tvg-id="NBR" tvg-logo="https://i.postimg.cc/3x1ScsCW/Photo-1542097081492.png" tvg-name="ESPN 2"  group-title="ESPORTES (leo)",ESPN 2
+http://177.139.171.102:27030/live/alvaro/17/123.ts
+
+#EXTINF:-1, tvg-id="GloboRj.leo" tvg-logo="https://i.postimg.cc/3x1ScsCW/Photo-1542097081492.png" tvg-name="FOX LIFE"  group-title="BONUS(leo)",FOX LIFE
+http://177.139.171.102:27030/live/alvaro/17/230.ts
+
+#EXTINF:-1, tvg-id="GloboRj.leo" tvg-logo="https://i.postimg.cc/3x1ScsCW/Photo-1542097081492.png" tvg-name="FOX PREMIUM 1"  group-title="BONUS(leo)",FOX PREMIUM 1
+http://177.139.171.102:27030/live/alvaro/17/28.ts
+
+#EXTINF:-1, tvg-id="GloboRj.leo" tvg-logo="https://i.postimg.cc/3x1ScsCW/Photo-1542097081492.png" tvg-name="FOX PREMIUM 2"  group-title="BONUS(leo)",FOX PREMIUM 2
+http://177.139.171.102:27030/live/alvaro/17/232.ts
+
+#EXTINF:-1, tvg-id="GloboRj.leo" tvg-logo="https://i.postimg.cc/3x1ScsCW/Photo-1542097081492.png" tvg-name="GLOBO"  group-title="BONUS(leo)",GLOBO
+http://177.139.171.102:27030/live/alvaro/17/1.ts
+
+#EXTINF:-1, tvg-id="Gloob.LEO" tvg-logo="https://i.postimg.cc/FFCXznYM/Photo-1542097029224.png" tvg-name="GLOOB"  group-title="INFANTL LEO",GLOOB
+http://167.114.173.170:25461/live/fgdaFYZ27J/_HMQNOZP/372.m3u8|User-Agent=player_exo3
+
+#EXTINF:-1, tvg-id="GloboRj.leo" tvg-logo="https://i.postimg.cc/3x1ScsCW/Photo-1542097081492.png" tvg-name="HBO"  group-title="BONUS(leo)",HBO
+http://177.139.171.102:27030/live/alvaro/17/132.ts
+
+#EXTINF:-1, tvg-id="HBO.igor" tvg-logo="https://i.postimg.cc/FFCXznYM/Photo-1542097029224.png" tvg-name="HBO 1"  group-title="HBO",HBO 1
+http://167.114.173.170:25461/live/fgdaFYZ27J/_HMQNOZP/245.m3u8|User-Agent=player_exo3
+
+#EXTINF:-1, tvg-id="HBO 2.igor" tvg-logo="https://i.postimg.cc/FFCXznYM/Photo-1542097029224.png" tvg-name="HBO 2"  group-title="HBO",HBO 2
+http://167.114.173.170:25461/live/fgdaFYZ27J/_HMQNOZP/244.m3u8|User-Agent=player_exo3
+
+#EXTINF:-1, tvg-id="GloboRj.leo" tvg-logo="https://i.postimg.cc/3x1ScsCW/Photo-1542097081492.png" tvg-name="HBO 3"  group-title="BONUS(leo)",HBO 3
+http://177.139.171.102:27030/live/alvaro/17/144.ts
+
+#EXTINF:-1, tvg-id="HBO Family.igor" tvg-logo="https://i.postimg.cc/FFCXznYM/Photo-1542097029224.png" tvg-name="HBO FAMILY"  group-title="HBO",HBO FAMILY
+http://167.114.173.170:25461/live/fgdaFYZ27J/_HMQNOZP/348.m3u8|User-Agent=player_exo3
+
+#EXTINF:-1, tvg-id="HBO Plus.igor" tvg-logo="https://i.postimg.cc/FFCXznYM/Photo-1542097029224.png" tvg-name="HBO PLUS"  group-title="HBO",HBO PLUS
+http://167.114.173.170:25461/live/fgdaFYZ27J/_HMQNOZP/243.m3u8|User-Agent=player_exo3
+
+#EXTINF:-1, tvg-id="HBO Plus E.igor" tvg-logo="https://i.postimg.cc/FFCXznYM/Photo-1542097029224.png" tvg-name="HBO PLUS E"  group-title="HBO",HBO PLUS E
+http://167.114.173.170:25461/live/fgdaFYZ27J/_HMQNOZP/242.m3u8|User-Agent=player_exo3
+
+#EXTINF:-1, tvg-id="HBO SIGNATURE.igor" tvg-logo="https://i.postimg.cc/FFCXznYM/Photo-1542097029224.png" tvg-name="HBO SIGNATURE"  group-title="HBO",HBO SIGNATURE
+http://167.114.173.170:25461/live/fgdaFYZ27J/_HMQNOZP/241.m3u8|User-Agent=player_exo3
+
+#EXTINF:-1, tvg-id="GloboRj.leo" tvg-logo="https://i.postimg.cc/3x1ScsCW/Photo-1542097081492.png" tvg-name="MAX UP"  group-title="BONUS(leo)",MAX UP
+http://177.139.171.102:27030/live/alvaro/17/183.ts
+
+#EXTINF:-1, tvg-id="NAT GEO KIDS.LEO" tvg-logo="https://i.postimg.cc/FFCXznYM/Photo-1542097029224.png" tvg-name="NAT GEO KIDS"  group-title="INFANTL LEO",NAT GEO KIDS
+http://167.114.173.170:25461/live/fgdaFYZ27J/_HMQNOZP/232.m3u8|User-Agent=player_exo3
+
+#EXTINF:-1, tvg-id="Nick.LEO" tvg-logo="https://i.postimg.cc/FFCXznYM/Photo-1542097029224.png" tvg-name="NICK"  group-title="INFANTL LEO",NICK
+http://167.114.173.170:25461/live/fgdaFYZ27J/_HMQNOZP/229.m3u8|User-Agent=player_exo3
+
+#EXTINF:-1, tvg-id="Nick Jr.LEO" tvg-logo="https://i.postimg.cc/FFCXznYM/Photo-1542097029224.png" tvg-name="NICK JR"  group-title="INFANTL LEO",NICK JR
+http://167.114.173.170:25461/live/fgdaFYZ27J/_HMQNOZP/230.m3u8|User-Agent=player_exo3
+
+#EXTINF:-1, tvg-id="GloboRj.leo" tvg-logo="https://i.postimg.cc/3x1ScsCW/Photo-1542097081492.png" tvg-name="RECORD"  group-title="BONUS(leo)",RECORD
+http://177.139.171.102:27030/live/alvaro/17/13.ts
+
+#EXTINF:-1, tvg-id="Record.igor" tvg-logo="http://goo.gl/ssN6sj?" tvg-name="RECORD 1"  group-title="TV Aberta (leo)",RECORD 1
+http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/live.m3u8
+
+#EXTINF:-1, tvg-id="Record.igor" tvg-logo="http://goo.gl/ssN6sj?" tvg-name="RECORD 2"  group-title="TV Aberta (leo)",RECORD 2
+http://srv3.zoeweb.tv:1935/zw315/zw315tvs/chunklist_w1106684646.m3u8
+
+#EXTINF:-1, tvg-id="NBR" tvg-logo="https://i.postimg.cc/3x1ScsCW/Photo-1542097081492.png" tvg-name="RECORD NEWS"  group-title="NEWS(leo)",RECORD NEWS
+http://sm.fabricahost.com.br:1935/tvguara/tvguara/chunklist_w269706627.m3u8
+
+#EXTINF:-1, tvg-id="REDE BRASIL" tvg-logo="https://i.imgur.com/aV1cIAf.png?1" tvg-name="REDE BRASIL®"  group-title="TV Aberta (leo)",REDE BRASIL®
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="REDE BRASIL" tvg-logo="https://i.imgur.com/aV1cIAf.png?1" tvg-name="REDE BRASIL® 1"  group-title="TV Aberta (leo)",REDE BRASIL® 1
+http://tv01.logicahost.com.br:1935/rbtv/rbtv/live.m3u8
+
+#EXTINF:-1, tvg-id="REDE FAMÍLIA" tvg-logo="http://i.imgur.com/sQwm6Cl.png" tvg-name="REDE FAMÍLIA HD"  group-title="TV Aberta (leo)",REDE FAMÍLIA HD
+http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/MEBQV6z.png" tvg-name="REDE TV RJ"  group-title="TV Aberta (leo)",REDE TV RJ
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/MEBQV6z.png group-title=" tvg-name="REDE TV SP"  group-title="TV Aberta (leo)",REDE TV SP
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w304668891.m3u8
+
+#EXTINF:-1, tvg-id="GloboRj.leo" tvg-logo="https://i.postimg.cc/3x1ScsCW/Photo-1542097081492.png" tvg-name="SBT"  group-title="BONUS(leo)",SBT
+http://177.139.171.102:27030/live/alvaro/17/12.ts
+
+#EXTINF:-1, tvg-id="SBT RJ" tvg-logo="https://i.postimg.cc/FFCXznYM/Photo-1542097029224.png" tvg-name="SBT 1"  group-title="TV Aberta (leo)",SBT 1
+https://5a1c76baf08c0.streamlock.net/z343-live/stream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1, tvg-id="SBT RJ" tvg-logo="https://i.postimg.cc/FFCXznYM/Photo-1542097029224.png" tvg-name="SBT PI"  group-title="TV Aberta (leo)",SBT PI
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?
+
+#EXTINF:-1, tvg-id="GloboRj.leo" tvg-logo="https://i.postimg.cc/3x1ScsCW/Photo-1542097081492.png" tvg-name="TBS"  group-title="BONUS(leo)",TBS
+http://177.139.171.102:27030/live/alvaro/17/121.ts
+
+#EXTINF:-1, tvg-id="GloboRj.leo" tvg-logo="https://i.postimg.cc/3x1ScsCW/Photo-1542097081492.png" tvg-name="TELECINE ACTION"  group-title="BONUS(leo)",TELECINE ACTION
+http://177.139.171.102:27030/live/alvaro/17/133.ts
+
+#EXTINF:-1, tvg-id="TcAction.igor" tvg-logo="https://i.postimg.cc/FFCXznYM/Photo-1542097029224.png?" tvg-name="TELECINE ACTION 1"  group-title="TELECINES",TELECINE ACTION 1
+http://167.114.173.170:25461/live/fgdaFYZ27J/_HMQNOZP/204.m3u8|User-Agent=player_exo3
+
+#EXTINF:-1, tvg-id="GloboRj.leo" tvg-logo="https://i.postimg.cc/3x1ScsCW/Photo-1542097081492.png" tvg-name="TELECINE FUN"  group-title="BONUS(leo)",TELECINE FUN
+http://177.139.171.102:27030/live/alvaro/17/134.ts
+
+#EXTINF:-1, tvg-id="TcFun.igor" tvg-logo="https://i.postimg.cc/FFCXznYM/Photo-1542097029224.png" tvg-name="TELECINE FUN 1"  group-title="TELECINES",TELECINE FUN 1
+http://167.114.173.170:25461/live/fgdaFYZ27J/_HMQNOZP/203.m3u8|User-Agent=player_exo3
+
+#EXTINF:-1, tvg-id="GloboRj.leo" tvg-logo="https://i.postimg.cc/3x1ScsCW/Photo-1542097081492.png" tvg-name="TELECINE PIPOCA"  group-title="BONUS(leo)",TELECINE PIPOCA
+http://177.139.171.102:27030/live/alvaro/17/130.ts
+
+#EXTINF:-1, tvg-id="TcPipoca.igor" tvg-logo="https://i.postimg.cc/FFCXznYM/Photo-1542097029224.png" tvg-name="TELECINE PIPOCA 1"  group-title="TELECINES",TELECINE PIPOCA 1
+http://167.114.173.170:25461/live/fgdaFYZ27J/_HMQNOZP/202.m3u8|User-Agent=player_exo3
+
+#EXTINF:-1, tvg-id="GloboRj.leo" tvg-logo="https://i.postimg.cc/3x1ScsCW/Photo-1542097081492.png" tvg-name="TELECINE PREMIUM "  group-title="BONUS(leo)",TELECINE PREMIUM 
+http://177.139.171.102:27030/live/alvaro/17/137.ts
+
+#EXTINF:-1, tvg-id="TcPremium.igor" tvg-logo="https://i.postimg.cc/FFCXznYM/Photo-1542097029224.png" tvg-name="TELECINE PREMIUM 1"  group-title="TELECINES",TELECINE PREMIUM 1
+http://167.114.173.170:25461/live/fgdaFYZ27J/_HMQNOZP/201.m3u8|User-Agent=player_exo3
+
+#EXTINF:-1, tvg-id="GloboRj.leo" tvg-logo="https://i.postimg.cc/3x1ScsCW/Photo-1542097081492.png" tvg-name="TELECINE TOUCH"  group-title="BONUS(leo)",TELECINE TOUCH
+http://177.139.171.102:27030/live/alvaro/17/127.ts
+
+#EXTINF:-1, tvg-id="TcTouch.igor" tvg-logo="https://i.postimg.cc/FFCXznYM/Photo-1542097029224.png" tvg-name="TELECINE TOUCH 1"  group-title="TELECINES",TELECINE TOUCH 1
+http://167.114.173.170:25461/live/fgdaFYZ27J/_HMQNOZP/200.m3u8|User-Agent=player_exo3
+
+#EXTINF:-1, tvg-id="GloboRj.leo" tvg-logo="https://i.postimg.cc/3x1ScsCW/Photo-1542097081492.png" tvg-name="TNT"  group-title="BONUS(leo)",TNT
+http://177.139.171.102:27030/live/alvaro/17/2.ts
+
+#EXTINF:-1, tvg-id="Tooncast.LEO" tvg-logo="https://i.postimg.cc/FFCXznYM/Photo-1542097029224.png" tvg-name="TOONCAST"  group-title="INFANTL LEO",TOONCAST
+http://167.114.173.170:25461/live/fgdaFYZ27J/_HMQNOZP/198.m3u8|User-Agent=player_exo3
+
+#EXTINF:-1, tvg-id="TV CULTURA" tvg-logo="https://i.imgur.com/4DOaSQC.png" tvg-name="TV CULTURA HD"  group-title="TV Aberta (leo)",TV CULTURA HD
+http://177.73.84.49/hls/live/live.m3u8
+
+#EXTINF:-1, tvg-id="TV CULTURA" tvg-logo="https://i.imgur.com/4DOaSQC.png" tvg-name="TV CULTURA PA"  group-title="TV Aberta (leo)",TV CULTURA PA
+http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8?EDSONSOUSALIST
+
+#EXTINF:-1, tvg-id="TV EDUCATIVA" tvg-logo="https://i.imgur.com/Agw8tsJ.png" tvg-name="TV EDUCATIVA"  group-title="TV Aberta (leo)",TV EDUCATIVA
+http://rbc.directradios\musicas\som (leo gondim).com:1935/rbc/rbc_720p/playlist.m3u8
+
+#EXTINF:-1, tvg-id="TV EDUCATIVA" tvg-logo="https://i.imgur.com/Agw8tsJ.png" tvg-name="TV EDUCATIVA"  group-title="TV Aberta (leo)",TV EDUCATIVA
+http://rbc.directradios\musicas\som (leo gondim).com:1935/rbc/smil:rbc.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-id="TV Escola [Brazil]" tvg-logo="http://i.imgur.com/Yj9UKv2.png" tvg-name="TV ESCOLA"  group-title="TV Aberta (leo)",TV ESCOLA
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream2/playlist.m3u8?
+
+#EXTINF:-1, tvg-id="TV GAZETA" tvg-logo="https://i.imgur.com/xJu4BeH.png" tvg-name="TV GAZETA"  group-title="TV Aberta (leo)",TV GAZETA
+http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
+
+#EXTINF:-1, tvg-id="TV GAZETA" tvg-logo="https://i.imgur.com/xJu4BeH.png" tvg-name="TV GAZETA HD"  group-title="TV Aberta (leo)",TV GAZETA HD
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
+
+#EXTINF:-1, tvg-id="TV FUTURA" tvg-logo="https://i.imgur.com/EAufOuD.png?1" tvg-name="TV UP HD"  group-title="TV Aberta (leo)",TV UP HD
+http://caikron.com.br:1935/unipar/tvup/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1, tvg-id="TVE BA HD" tvg-logo="https://i.imgur.com/oNpqaxy.png?1" tvg-name="TVE BA HD"  group-title="TV Aberta (leo)",TVE BA HD
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+
+#EXTINF:-1, tvg-id="TVE BRASIL" tvg-logo="https://i.imgur.com/oNpqaxy.png?1" tvg-name="TVE BRASIL"  group-title="TV Aberta (leo)",TVE BRASIL
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+#EXTINF:-1, tvg-id="TV CULTURA" tvg-logo="https://i.imgur.com/4LILIHo.png?1" tvg-name="TVU RECIFE"  group-title="TV Aberta (leo)",TVU RECIFE
+http://150.161.93.173/hls/720/index.m3u8?EDSONSOUSALIST
+
+#EXTINF:-1, tvg-id="GloboRj.leo" tvg-logo="https://i.postimg.cc/3x1ScsCW/Photo-1542097081492.png" tvg-name="WARNER CHANNEL"  group-title="BONUS(leo)",WARNER CHANNEL
+http://177.139.171.102:27030/live/alvaro/17/45.ts
