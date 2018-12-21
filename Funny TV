@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-id="BabyTv.LEO" tvg-logo="https://i.postimg.cc/FFCXznYM/Photo-1542097029224.png" tvg-name="BABY TV"  group-title="INFANTL LEO",BABY TV
+#EXTINF:-1, tvg-id="BabyTv.LEO" tvg-logo="https://babytv.com.br/images/siteimages/LogoBabyTV-2018-wCloud.png" tvg-name="BABY TV"  group-title="INFANTL LEO",BABY TV
 http://167.114.173.170:25461/live/fgdaFYZ27J/_HMQNOZP/294.m3u8|User-Agent=player_exo3
 
 #EXTINF:-1, tvg-id="BABY TV" tvg-logo="https://i.postimg.cc/50DcQXFZ/zLogo.png" tvg-name="BABY TV"  group-title="INFANTIL",BABY TV
