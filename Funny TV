@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, tvg-id="zOutros" tvg-logo="https://i.postimg.cc/7LSVJT1T/zMODELO.jpg" tvg-name="zOutros"  group-title="zOutros",Zoutros
+http://61.160.23.75:2/ose/dogs/5e2e2a99842525a424b51626706807b3.md5
+
 #EXTINF:-1, tvg-id="Disney XD.LEO" tvg-logo="https://i.postimg.cc/7LSVJT1T/zMODELO.jpg" tvg-name="DISNEY XD"  group-title="INFANTL LEO",DISNEY XD
 http://167.114.173.170:25461/live/fgdaFYZ27J/_HMQNOZP/275.m3u8|User-Agent=player_exo3
 
