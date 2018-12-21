@@ -1,18 +1,18 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-id="NBR" tvg-logo="https://i.postimg.cc/50DcQXFZ/zLogo.png" tvg-name="ABC"  group-title="INFANTL LEO",BABY TV
-https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8?sd=10&rebase=on
-
 #EXTINF:-1, tvg-id="BabyTv.LEO" tvg-logo="https://i.postimg.cc/FFCXznYM/Photo-1542097029224.png" tvg-name="BABY TV"  group-title="INFANTL LEO",BABY TV
 http://167.114.173.170:25461/live/fgdaFYZ27J/_HMQNOZP/294.m3u8|User-Agent=player_exo3
 
-#EXTINF:-1, tvg-id="GloboRj.leo" tvg-logo="https://i.postimg.cc/3x1ScsCW/Photo-1542097081492.png" tvg-name="BAND"  group-title="BONUS(leo)",BAND
-http://177.139.171.102:27030/live/alvaro/17/34.ts
+#EXTINF:-1, tvg-id="BABY TV" tvg-logo="https://i.postimg.cc/50DcQXFZ/zLogo.png" tvg-name="BABY TV"  group-title="INFANTIL",BABY TV
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1, tvg-id="BAND PA" tvg-logo="https://i.imgur.com/yHryW3l.png?1" tvg-name="BAND"  group-title="TV Aberta (leo)",BAND
+#EXTINF:-1, tvg-id="BAND" tvg-logo="https://i.imgur.com/yHryW3l.png?1" tvg-name="BAND HD"  group-title="TV ABERTA",BAND HD
 http://evpp.mm.uol.com.br:1935/geob_band/bandapp/live.m3u8
 
-#EXTINF:-1, tvg-id="BAND SP" tvg-logo="https://i.postimg.cc/FFCXznYM/Photo-1542097029224.png" tvg-name="BAND SP"  group-title="TV Aberta (leo)",BAND SP
+#EXTINF:-1, tvg-id="BAND" tvg-logo="https://i.postimg.cc/3x1ScsCW/Photo-1542097081492.png" tvg-name="BAND SD"  group-title="TV ABERTA",BAND SD
+http://177.139.171.102:27030/live/alvaro/17/34.ts
+
+#EXTINF:-1, tvg-id="BAND" tvg-logo="https://i.postimg.cc/FFCXznYM/Photo-1542097029224.png" tvg-name="BAND SD"  group-title="TV Aberta (leo)",BAND SD
 http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
 
 #EXTINF:-1, tvg-id="Bloomberg.LEO" tvg-logo="https://i.postimg.cc/FFCXznYM/Photo-1542097029224.png" tvg-name="BOOMERANG"  group-title="INFANTL LEO",BOOMERANG
@@ -123,7 +123,7 @@ http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/MEBQV6z.png" tvg-name="REDE TV RJ"  group-title="TV Aberta (leo)",REDE TV RJ
 http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/MEBQV6z.png group-title=" tvg-name="REDE TV SP"  group-title="TV Aberta (leo)",REDE TV SP
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/MEBQV6z.png group-title=" tvg-name="REDE TV SP"  group-title="tvg-name=",REDE TV SP
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w304668891.m3u8
 
 #EXTINF:-1, tvg-id="GloboRj.leo" tvg-logo="https://i.postimg.cc/3x1ScsCW/Photo-1542097081492.png" tvg-name="SBT"  group-title="BONUS(leo)",SBT
@@ -156,7 +156,7 @@ http://177.139.171.102:27030/live/alvaro/17/130.ts
 #EXTINF:-1, tvg-id="TcPipoca.igor" tvg-logo="https://i.postimg.cc/FFCXznYM/Photo-1542097029224.png" tvg-name="TELECINE PIPOCA 1"  group-title="TELECINES",TELECINE PIPOCA 1
 http://167.114.173.170:25461/live/fgdaFYZ27J/_HMQNOZP/202.m3u8|User-Agent=player_exo3
 
-#EXTINF:-1, tvg-id="GloboRj.leo" tvg-logo="https://i.postimg.cc/3x1ScsCW/Photo-1542097081492.png" tvg-name="TELECINE PREMIUM "  group-title="BONUS(leo)",TELECINE PREMIUM 
+#EXTINF:-1, tvg-id="GloboRj.leo" tvg-logo="https://i.postimg.cc/3x1ScsCW/Photo-1542097081492.png" tvg-name="TELECINE PREMIUM"  group-title="BONUS(leo)",TELECINE PREMIUM
 http://177.139.171.102:27030/live/alvaro/17/137.ts
 
 #EXTINF:-1, tvg-id="TcPremium.igor" tvg-logo="https://i.postimg.cc/FFCXznYM/Photo-1542097029224.png" tvg-name="TELECINE PREMIUM 1"  group-title="TELECINES",TELECINE PREMIUM 1
@@ -181,10 +181,10 @@ http://177.73.84.49/hls/live/live.m3u8
 http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8?EDSONSOUSALIST
 
 #EXTINF:-1, tvg-id="TV EDUCATIVA" tvg-logo="https://i.imgur.com/Agw8tsJ.png" tvg-name="TV EDUCATIVA"  group-title="TV Aberta (leo)",TV EDUCATIVA
-http://rbc.directradios\musicas\som (leo gondim).com:1935/rbc/rbc_720p/playlist.m3u8
+http://rbc.directradios\musicas\som (leo gondim).com:1935/rbc/smil:rbc.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-id="TV EDUCATIVA" tvg-logo="https://i.imgur.com/Agw8tsJ.png" tvg-name="TV EDUCATIVA"  group-title="TV Aberta (leo)",TV EDUCATIVA
-http://rbc.directradios\musicas\som (leo gondim).com:1935/rbc/smil:rbc.smil/playlist.m3u8
+http://rbc.directradios\musicas\som (leo gondim).com:1935/rbc/rbc_720p/playlist.m3u8
 
 #EXTINF:-1, tvg-id="TV Escola [Brazil]" tvg-logo="http://i.imgur.com/Yj9UKv2.png" tvg-name="TV ESCOLA"  group-title="TV Aberta (leo)",TV ESCOLA
 http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream2/playlist.m3u8?
@@ -209,3 +209,4 @@ http://150.161.93.173/hls/720/index.m3u8?EDSONSOUSALIST
 
 #EXTINF:-1, tvg-id="GloboRj.leo" tvg-logo="https://i.postimg.cc/3x1ScsCW/Photo-1542097081492.png" tvg-name="WARNER CHANNEL"  group-title="BONUS(leo)",WARNER CHANNEL
 http://177.139.171.102:27030/live/alvaro/17/45.ts
+
