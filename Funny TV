@@ -27,6 +27,9 @@ http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8?sd=10&re
 #EXTINF:-1, tvg-id="COMBATE" tvg-logo="https://i.postimg.cc/7LSVJT1T/zMODELO.jpg" tvg-name="COMBATE"  group-title="ESPORTE",COMBATE
 https://ccv3.azureedge.net//hls1/combate.m3u8
 
+#EXTINF:-1, tvg-id="COMBATE" tvg-logo="https://i.postimg.cc/7LSVJT1T/zMODELO.jpg" tvg-name="COMBATE"  group-title="ESPORTE",COMBATE
+https://ccv3.azureedge.net//hls1/combate-sd.m3u8
+
 #EXTINF:-1, tvg-id="COMEDY CENTRAL" tvg-logo="https://i.postimg.cc/7LSVJT1T/zMODELO.jpg" tvg-name="COMEDY CENTRAL"  group-title="FILME",COMEDY CENTRAL
 http://177.139.171.102:27030/live/alvaro/17/202.ts
 
